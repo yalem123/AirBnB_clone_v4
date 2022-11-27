@@ -6,4 +6,5 @@ header {
     background-repeat: no-repeat;
     background-position: 20px center;
     flex-shrink: 0;
+    background-color:#ff545f;
 }
